@@ -16,3 +16,4 @@ public class play
       }    
    }
 }
+// How do you know if your program is correct?  Does it function as you expected?
